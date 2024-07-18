@@ -15,7 +15,7 @@ A university project in which the system is designed based on Quera website ques
 * لینک دسترسی به این سوال در سایت Quera: **[لینک پروژه در کوئرا](https://quera.org/problemset/106799/)**
 * برای دسترسی به همه‌ی پروژه‌های دانشگاهی من، به این لینک مراجعه کنید:
 
-👈🏻 **[پروژه‌های دانشگاهی من](https://github.com/bestmahdi2/Uni_SKU_Path)**
+👈🏻 **[پروژه‌های دانشگاهی من](https://github.com/bestmahdi2/Uni__Bachelors_SKU_Path)**
 
 # 📝 **توضیحات پروژه**
 <img src="Project_Description.png" width="100%">
