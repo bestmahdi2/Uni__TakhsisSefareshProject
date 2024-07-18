@@ -1,11 +1,10 @@
 # **📦 Takhsis Sefaresh Project | پروژه تخصیص سفارش**
 
-A university project in which the system is designed based on Quera website questions to return the desired answers.
-
-یک پروژه دانشگاهی که در آن سیستم بر اساس سوال وبسایت Quera طراحی می‌شود تا پاسخ‌های مورد نظر را برگرداند.
+**A university project in which the system is designed based on Quera website questions to return the desired answers.**
 
 <div dir="rtl">
-
+  
+**یک پروژه دانشگاهی که در آن سیستم بر اساس سوال وبسایت Quera طراحی می‌شود تا پاسخ‌های مورد نظر را برگرداند.**
 
 # 💬 **نکات پروژه**
 
@@ -20,11 +19,9 @@ A university project in which the system is designed based on Quera website ques
 # 📝 **توضیحات پروژه**
 <img src="Project_Description.png" width="100%">
 
-
 # 🖼 **عکس‌های پروژه**
 
 <p align="center">
   <img src="ScreenShots/1. Takhsis Sefaresh.png" width="70%" center>
 </p>
-
 </div>
